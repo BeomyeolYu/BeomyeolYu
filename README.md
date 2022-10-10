@@ -1,6 +1,6 @@
 ### Welcome to my page 👋
-I'm Beomyeol Yu, people call me Ben, a Ph.D student at [Flight Dynamics and Control Lab](https://github.com/fdcl-gwu).
-- 🔭 I’m currently majoring in Mechanical and Aerospace Engineering at [GWU](https://www.gwu.edu/)
+I'm Beomyeol Yu, people call me Ben.
+- 🔭 I’m currently working on my Ph.D in Mechanical and Aerospace Engineering at [Flight Dynamics and Control Lab](https://github.com/fdcl-gwu) of [GWU](https://www.gwu.edu/).
 <!-- 
 -  My research:
     - 
@@ -20,7 +20,7 @@ https://simpleicons.org/
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake)
 ![Julia](https://img.shields.io/badge/-Julia-181717?style=flat-square&logo=julia)
-º![Matlab](https://img.shields.io/badge/-MATLAB_&_Simulink-181717?style=flat-square&logo=🔭)
+🛩![Matlab](https://img.shields.io/badge/-MATLAB_&_Simulink-181717?style=flat-square&logo=🔭)
 
 - ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim)
